@@ -1,6 +1,6 @@
 {
   "target_date": "20261125",
-  "tg_offset": 726552098,
+  "tg_offset": 726552099,
   "seatwatch": true,
   "seat_change_all": true,
   "health_off": false,
@@ -12,7 +12,6 @@
     "id:1117302",
     "id:1117303",
     "id:1117305",
-    "id:1117312",
     "id:1117313",
     "id:1117316",
     "id:1117317",
@@ -81,8 +80,8 @@
   },
   "id_since": "2026-11-09 13:40",
   "id_anomalies": 1,
-  "ack_date": null,
-  "ack_count": 0,
+  "ack_date": "20261125",
+  "ack_count": 1,
   "trace_until": null,
-  "updated_at": "2026-11-25 07:58:12 KST"
+  "updated_at": "2026-11-25 08:09:46 KST"
 }
