@@ -5,7 +5,9 @@
   "seat_change_all": true,
   "health_off": false,
   "announced": "20261128",
-  "zero_slots": [],
+  "zero_slots": [
+    "id:1118682"
+  ],
   "slot_ids": {
     "극장판 짱구는 못말려: 기기괴괴! 나의 요괴 바캉스 (더빙)|2관 (174석)|13:20~15:08": "1115022",
     "극장판 짱구는 못말려: 기기괴괴! 나의 요괴 바캉스 (더빙)|6관 (146석)|15:00~16:48": "1115264",
@@ -70,7 +72,7 @@
   "id_since": "2026-11-09 13:40",
   "id_anomalies": 1,
   "ack_date": "20261128",
-  "ack_count": 1,
+  "ack_count": 61,
   "trace_until": null,
-  "updated_at": "2026-11-27 06:41:49 KST"
+  "updated_at": "2026-11-27 06:52:59 KST"
 }
