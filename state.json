@@ -1,6 +1,6 @@
 {
-  "target_date": "20261201",
-  "tg_offset": 726552115,
+  "target_date": "20261202",
+  "tg_offset": 726552116,
   "seatwatch": true,
   "seat_change_all": true,
   "health_off": false,
@@ -62,7 +62,7 @@
   "id_since": "2026-11-09 13:40",
   "id_anomalies": 1,
   "ack_date": "20261201",
-  "ack_count": 1,
+  "ack_count": 2,
   "trace_until": null,
-  "updated_at": "2026-11-27 16:41:41 KST"
+  "updated_at": "2026-11-27 16:42:05 KST"
 }
